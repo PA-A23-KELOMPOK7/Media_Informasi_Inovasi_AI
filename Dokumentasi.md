@@ -49,8 +49,6 @@ Program ini memiliki beberapa fitur bagi penggunanya, yaitu :
 >- Membuat postingan : User dapat membuat postingan yang akan ditampilkan untuk user tersebut dan user lainnya.
 >- Mencari postingan : User dapat mencari postingan user tersebut atau postingan dari user lainnya.
 >- Melihat informasi : User dapat melihat informasi yang diberikan.
->- Membalas komentar : User dapat membuat komentar dari postingan user tersebut, postingan user lainnya, dan informasi
->- Membalas komentar : User dapat membalas komentar dari postingan user tersebut, postingan user lainnya, dan informasi
 >2. Admin
 >- Melihat profil user : Admin dapat melihat profil user yang berisikan id user, nama user, username, e-mail user, dan password user.
 >- Mengubah profil user: Admin dapat melakukan perubahan pada profil user seperti mengubah nama user, username, e-mail dan password user.
