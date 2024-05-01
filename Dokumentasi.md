@@ -149,6 +149,8 @@ Berikut adalah diagram alur program pada menu admin :
 ![alt text](<assets/Postingan Sudah Disetujui.jpg>)
 ![alt text](<assets/Pengaturan Postingan Sudah Disetujui.jpg>)
 
+## Panduan Penggunaan Program Aplikasi Blog Media Informasi Untuk Inovasi AI
+---
 ## Halaman Utama
 Berikut adalah halaman utama dari program yang terdiri atas login admin, login user, registrasi user, dan opsi keluar program.
 ![alt text](<assets/Menu Utama.png>)
@@ -178,8 +180,7 @@ Berikut adalah halaman utama dari program yang terdiri atas login admin, login u
 ---
 
 
----
-## Panduan Penggunaan Program Aplikasi Blog Media Informasi Untuk Inovasi AI
+
 ---
 ## Admin
 Berikut adalah menu utama admin : 
