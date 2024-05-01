@@ -32,13 +32,14 @@
 ---
 
 ## Fitur
-Program ini menggunakan beberapa library python, seperti PrettyTable, pwinput, mysqlconnector, tkinter, os, dan dotenv.
+Program ini menggunakan beberapa library python, seperti PrettyTable, pwinput, mysqlconnector, textwrap, os, dotenv, dan math.
 >1. PrettyTable adalah library python yang berfungsi menampilkan data dalam bentuk tabel yang terorganisir.
 >2. PWInput adalah library python yang berfungsi untuk menyembunyikan kata sandi saat melakukan login atau registrasi.
 >3. MySQLConnector adalah library yang berfungsi untuk menghubungkan server database ke program.
->4. tkinter adalah library python yang berfungsi untuk menampilkan graphical user interface kepada pengguna, seperti GUI postingan. 
+>4. Modul textwrap berguna untuk menampilkan postingan pada program agar terlihat rapi.
 >5. Modul os berguna untuk berinteraksi pada sistem operasi pengguna dan melakukan operasi folder dan file.
 >6. Modul dotenv berguna sebagai penghubung antara file program dan file .env pada program.
+>7. Modul math berfungsi sebagai pembuatan algoritma search pada program.
 ---
 
 Program ini memiliki beberapa fitur bagi penggunanya, yaitu :
