@@ -13,9 +13,9 @@ Berikut adalah halaman utama dari program yang terdiri atas login admin, login u
 >- Login User : User dapat melakukan log-in jika sudah memiliki akun untuk mengakses program.
 ![alt text](<assets/1. Login.png>)
 ![alt text](<assets/2. Menu.png>)
->- Melihat Profil : User dapat melihat profilnya secara detail.
+>- Melihat Profil : User dapat melihat profilnya secara detail. 
 ![alt text](<assets/3. Lihat Profil.png>)
->- Mengubah Profil : User dapat mengubah informasi profilnya.
+>- Mengubah Profil : User dapat mengubah informasi profilnya. Tekan enter jika tidak ingin mengubah informasi yang sudah ada
 ![alt text](<assets/4. Edit Profil.png>)
 >- Melihat Postingan : User dapat melihat postingan yang telah dibuat olehnya.
 ![alt text](<assets/5. Lihat Postingan.png>)
