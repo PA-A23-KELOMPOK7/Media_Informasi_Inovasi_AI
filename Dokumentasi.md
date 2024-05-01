@@ -179,7 +179,8 @@ Berikut adalah halaman utama dari program yang terdiri atas login admin, login u
 >- Mencari Postingan : User dapat melakukan pencarian postingan.
 ---
 
-
+# Panduan Penggunaan Program Aplikasi Blog Media Informasi Untuk Inovasi AI
+---
 
 ---
 ## Admin
