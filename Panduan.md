@@ -16,8 +16,12 @@ Berikut adalah halaman utama dari program yang terdiri atas login admin, login u
 ![alt text](<assets/3. Lihat Profil.png>)
 >- Mengubah Profil : User dapat mengubah informasi profilnya. Tekan enter jika tidak ingin mengubah informasi.
 ![alt text](<assets/4. Edit Profil.png>)
->- Melihat Postingan : User dapat melihat postingan yang telah dibuat olehnya.
+>- Melihat Postingan : User dapat melihat postingan yang telah dibuatnya.
 ![alt text](<assets/5. Lihat Postingan.png>)
+>- Melihat Semua Postingan : User dapat melihat semua postingan yang dibuat olehnya atau postingan dari user lain.
+![alt text](<assets/7. Halaman Postingan.png>)
+>- Melihat Informasi : User dapat melihat informasi pelatihan dan webinar yang telah diposting oleh user lain.
+![alt text](<assets/Melihat Postingan berjenis Informasi.png>)
 >- Membuat Postingan : User dapat membuat postingan untuk ditampilkan kepada user lainnya.
 ![alt text](<assets/6. Menambahkan Postingan.png>)
 >- Membuat Komentar : User dapat membuat komentar pada postingan untuk ditampilkan kepada user lainnya, dengan cara memilih id postingan yang ingin dikomentarkan.
