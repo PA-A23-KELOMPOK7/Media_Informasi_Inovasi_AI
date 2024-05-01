@@ -2,11 +2,13 @@
 ---
 
 ## Halaman Utama
+Berikut adalah halaman utama dari program yang terdiri atas login admin, login user, registrasi user, dan opsi keluar program.
 ![alt text](<assets/Menu Utama.png>)
 ---
 
 ## User
 >- Registrasi User : User harus melakukan registrasi terlebih dahulu sebelum masuk ke dalam program jika user tersebut belum memiliki akun.
+
 ![alt text](<assets/0. Registrasi.png>)
 >- Login User : User dapat melakukan log-in jika sudah memiliki akun untuk mengakses program.
 ![alt text](<assets/1. Login.png>)
@@ -15,11 +17,11 @@
 ![alt text](<assets/3. Lihat Profil.png>)
 >- Mengubah Profil : User dapat mengubah informasi profilnya.
 ![alt text](<assets/4. Edit Profil.png>)
->- Melihat Postingan : User dapat melihat postingan yang telah dibuat oleh user tersebut.
+>- Melihat Postingan : User dapat melihat postingan yang telah dibuat olehnya.
 ![alt text](<assets/5. Lihat Postingan.png>)
->- Membuat Postingan : User dapat membuat postingan untuk ditampilkan kepada user lainnya
+>- Membuat Postingan : User dapat membuat postingan untuk ditampilkan kepada user lainnya.
 ![alt text](<assets/6. Menambahkan Postingan.png>)
->- Membuat Komentar : User dapat membuat komentar pada postingan untuk ditampilkan kepada user lainnya, dengan cara memilih postingan yang ingin dikomentarkan.
+>- Membuat Komentar : User dapat membuat komentar pada postingan untuk ditampilkan kepada user lainnya, dengan cara memilih id postingan yang ingin dikomentarkan.
 ![alt text](<assets/8. Menambahkan komentar.png>)
 >- Mencari Postingan : User dapat melakukan pencarian postingan.
 ---
